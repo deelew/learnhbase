@@ -1,0 +1,8 @@
+.project
+.classpath
+target/
+test.log
+learnhbase.iml
+learnhbase.ipr
+learnhbase.iws
+tree.txt

@@ -1,0 +1,1 @@
+mvn clean idea:clean idea:idea -DdownloadSources=true
